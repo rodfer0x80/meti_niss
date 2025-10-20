@@ -1,2 +1,2 @@
 # meti_niss
-METI NISS Project
+Master of Telecommunications and Engineering - Networks and Information Systems Security
